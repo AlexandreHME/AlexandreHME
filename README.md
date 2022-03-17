@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexandreHME
+- 👋 Hi, I’m @Echoo
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on ...
